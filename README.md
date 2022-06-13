@@ -1,5 +1,5 @@
 # Localization AGVs ParticleFilter C++
-In this repository, I will change and develop of Particle filter to localize the robot during navigation based on the C++ language.
+In this repository, I will change and develop the Particle filter to localize the robot during navigation based on the C++ language.
 ---
 If you like the project give me a star! :star: 
 
