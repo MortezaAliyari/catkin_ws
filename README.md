@@ -11,4 +11,4 @@ You can see the video: &nbsp;&nbsp;
 ### The requirements of this project are :
 - Ubuntu Focal 
 - ROS Noetic
-- GAzebo 11
+- Gazebo 11
